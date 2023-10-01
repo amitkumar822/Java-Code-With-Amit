@@ -1,2 +1,3 @@
-# Java-Code-With-Amit
+# Java-DSA_MyCollege_JavaProblem
+
 code with Amit Kumar
